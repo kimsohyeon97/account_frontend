@@ -50,4 +50,3 @@ hotfix: 긴급 수정
 ```
 
 ### 코딩 스타일 규칙
-# account_frontend
